@@ -15,15 +15,15 @@ main:
     doi: https://doi.org/10.1038/s41467-025-58724-3
     notes: Co-first author
 
-  - title: "CATI: A Medical Context-Enhanced Framework for Diagnosis Code Assignment in the UK Biobank Study"
-    authors: "Y. Shen, J. Wang, et al., <strong>Xiaopu Wang</strong>, et al."
-    conference_short: AI Med.
-    conference: "<strong>Artificial Intelligence in Medicine</strong>, 2025."
-    doi: https://doi.org/10.1016/j.artmed.2025.103136
-
   - title: "Copy Number Variation Detection Based on Constraint Least Squares"
     authors: "<strong>Xiaopu Wang</strong>, X. Wang, A. Zhang, C. Wen"
     conference_short: SII
     conference: "<strong>Statistics and Its Interface</strong>."
     doi: https://dx.doi.org/10.4310/23-SII814
     notes: First author
+
+  - title: "CATI: A Medical Context-Enhanced Framework for Diagnosis Code Assignment in the UK Biobank Study"
+    authors: "Y. Shen, J. Wang, et al., <strong>Xiaopu Wang</strong>, et al."
+    conference_short: AI Med.
+    conference: "<strong>Artificial Intelligence in Medicine</strong>, 2025."
+    doi: https://doi.org/10.1016/j.artmed.2025.103136
