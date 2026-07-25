@@ -12,6 +12,4 @@ My research focuses on statistical machine learning, trustworthy AI, and
 biomedical data science, with particular interests in large language model
 watermarking and longitudinal health data.
 
-[[Curriculum Vitae](assets/files/curriculum_vitae.pdf)]
-
 {% include_relative _includes/publications.md %}
