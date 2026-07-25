@@ -3,7 +3,7 @@ main:
   - title: "Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking"
     authors: "<strong>Xiaopu Wang</strong>, Zelin He, Chengyuan Liu, Runze Li"
     conference_short: ICML
-    conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2026."
+    conference: "<strong>International Conference on Machine Learning (ICML)</strong>, 2026."
     pdf: assets/files/icml2026-watermark.pdf
     arxiv: https://arxiv.org/abs/2607.05694
     notes: First author
@@ -16,14 +16,14 @@ main:
     notes: Co-first author
 
   - title: "Copy Number Variation Detection Based on Constraint Least Squares"
-    authors: "<strong>Xiaopu Wang</strong>, X. Wang, A. Zhang, C. Wen"
+    authors: "<strong>Xiaopu Wang</strong>, Xueqin Wang, Aijun Zhang, Canhong Wen"
     conference_short: SII
     conference: "<strong>Statistics and Its Interface</strong>, 17(1):27-37, 2024."
     doi: https://dx.doi.org/10.4310/23-SII814
     notes: First author
 
   - title: "CATI: A Medical Context-Enhanced Framework for Diagnosis Code Assignment in the UK Biobank Study"
-    authors: "Y. Shen, J. Wang, et al., <strong>Xiaopu Wang</strong>, et al."
+    authors: "Yue Shen, Jie Wang, ..., <strong>Xiaopu Wang</strong>, et al."
     conference_short: AI Med.
     conference: "<strong>Artificial Intelligence in Medicine</strong>, 2025."
     doi: https://doi.org/10.1016/j.artmed.2025.103136
