@@ -5,7 +5,6 @@ main:
     conference_short: ICML
     conference: "International Conference on Machine Learning <strong>(ICML)</strong>, 2026."
     pdf: assets/files/icml2026-watermark.pdf
-    venue: https://icml.cc/virtual/2026/poster/63724
     arxiv: https://arxiv.org/abs/2607.05694
     notes: First author
 
