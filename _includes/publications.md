@@ -17,7 +17,7 @@
   {% endif %}
   <div class="{% if link.image %}col-sm-9{% else %}col-sm-12{% endif %}" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
-        {% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}
+        {{ link.title }}
       </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
