@@ -32,6 +32,9 @@
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
+      {% if link.venue %}
+      <a href="{{ link.venue }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">{{ link.conference_short | default: "Venue" }}</a>
+      {% endif %}
       {% if link.arxiv %}
       <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       {% endif %}
