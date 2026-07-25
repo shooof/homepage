@@ -18,7 +18,7 @@ main:
   - title: "Copy Number Variation Detection Based on Constraint Least Squares"
     authors: "<strong>Xiaopu Wang</strong>, X. Wang, A. Zhang, C. Wen"
     conference_short: SII
-    conference: "<strong>Statistics and Its Interface</strong>."
+    conference: "<strong>Statistics and Its Interface</strong>, 17(1):27-37, 2024."
     doi: https://dx.doi.org/10.4310/23-SII814
     notes: First author
 
