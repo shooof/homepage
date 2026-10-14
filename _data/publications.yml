@@ -8,6 +8,12 @@ main:
     arxiv: https://arxiv.org/abs/2607.05694
     notes: First author
 
+  - title: "ByteMark: A Unified Byte-Level Watermark for Detection Across Language Models"
+    authors: "<strong>Xiaopu Wang</strong>, Runze Li"
+    conference_short: ICLR (submitted)
+    conference: "Submitted to <strong>International Conference on Learning Representations (ICLR)</strong>, 2027."
+    notes: First author
+
   - title: "UKB-MDRMF: A Multi-Disease Risk and Multimorbidity Framework Based on UK Biobank Data"
     authors: "Yuan Jiang*, Bing Zhao*, <strong>Xiaopu Wang*</strong>, Bo Tang*, et al. (*Co-first authors)"
     conference_short: Nat. Commun.
